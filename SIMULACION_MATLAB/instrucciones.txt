@@ -1,1 +1,2 @@
-
+Las variables para ejecutar el algoritmo de la red neuronal se encuentran establecidas dentro del workspace de Simulink
+pero en caso de presentar problemas se puede ejecutar el archivo variables.m para que las variables se almacenen en el espacio de trabajo de MATLAB.
